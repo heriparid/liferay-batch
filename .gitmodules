@@ -1,0 +1,3 @@
+[submodule "journal-portlet"]
+	path = journal-portlet
+	url = ./journal-portlet/
